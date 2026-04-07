@@ -1,4 +1,4 @@
-# AI Helpdesk Chatbot (RAG + Reranking)
+# JEN-AI Helpdesk Chatbot (RAG + Reranking)
 
 A full-stack AI helpdesk chatbot that answers questions from uploaded documents using Retrieval-Augmented Generation (RAG). The system processes PDF and DOCX files, stores document chunks in a vector database, retrieves relevant context through semantic search, reranks retrieved chunks for better precision, and generates grounded answers using an LLM.
 
