@@ -1,0 +1,21 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/*.pyc
+
+# Environment variables
+backend/.env
+
+# Chroma / local vector store
+backend/chroma_store/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
